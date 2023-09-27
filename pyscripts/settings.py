@@ -33,7 +33,8 @@ ALLOWED_HOSTS = [
     '170.64.158.123',
     '127.0.0.1',
     'localhost',
-    'workflows.louiestshirtprinting.co'
+    'workflows.louiestshirtprinting.co',
+    'staging.louiestshirtprinting.co'
 ]
 
 
